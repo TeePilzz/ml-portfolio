@@ -1,0 +1,8 @@
+# Исходные данные
+dst-3.0_16_1_hh_database.csv
+
+# Вспомогательные файлы с курсами валют
+ExchangeRates.csv
+
+# Автосохранения Jupyter Notebook
+.ipynb_checkpoints
